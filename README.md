@@ -50,7 +50,13 @@ BeautifulSoup을 이용하여 Wanted 사이트의 채용 정보 페이지를 크
   - year : 요구 경력
 
   
-[활용 예시]  
+[추후 과제]
+- 통계분석을 통한 트렌드 분석  
+- 직무별 선호하는 기술스택이 있는가
+- 경력별 직무 분포도
+- 사용자가 웹을 통해서 자신의 경험과 기술스택을 기반으로 공고 추천하는 서비스 제작
+
+[활용 예시]
 <br>
 <img width="785" alt="example" src="https://user-images.githubusercontent.com/110758221/220267713-a50af7b9-b768-4810-a5e9-66c26770e47b.png">
 
