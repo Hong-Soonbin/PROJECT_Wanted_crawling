@@ -49,8 +49,10 @@ BeautifulSoup을 이용하여 Wanted 사이트의 채용 정보 페이지를 크
   - url : 채용 공고 게시물 주소
   - year : 요구 경력
 
-
-[활용 예시]
+  
+[활용 예시]  
+<br>
+<img width="785" alt="example" src="https://user-images.githubusercontent.com/110758221/220267713-a50af7b9-b768-4810-a5e9-66c26770e47b.png">
 
 
 
